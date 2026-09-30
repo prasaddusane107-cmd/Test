@@ -1,5 +1,7 @@
 # OmniCalc Pro • Next-Gen Glassmorphic Web Calculator
 
+> 🌐 **Live Demo**: [https://prasaddusane107-cmd.github.io/Test/](https://prasaddusane107-cmd.github.io/Test/)
+
 A modern, responsive, and aesthetic web calculator built with vanilla HTML, CSS, and JavaScript. Designed with glassmorphism aesthetics, ambient animated background orbs, tactile Web Audio API sound feedback, and support for both standard and scientific calculations.
 
 ## ✨ Features
